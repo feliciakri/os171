@@ -1,0 +1,8 @@
+Short Description of Week 0:
+1. git
+2. putty
+3. github
+4. os171
+5. gdrive
+6. wait
+7. profit
