@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 felicia51 StafCS 4096 Feb 13 16:42 .
+drwx--x--x  3 felicia51 StafCS 4096 Feb 13 16:33 ..
+drwxr-xr-x  8 felicia51 StafCS 4096 Feb 13 16:41 .git
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:27 key
+-rw-r--r--  1 felicia51 StafCS    0 Feb 13 16:43 lab01.txt
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:28 log
+-rw-r--r--  1 felicia51 StafCS    7 Feb 13 16:16 README.md
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:37 sandbox
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:41 week00
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week01
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week02
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week03
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week04
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week05
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week06
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week07
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week08
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:29 week09
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:30 week10
+drwxr-xr-x  2 felicia51 StafCS 4096 Feb 13 16:30 xtra
+/home/fasilkom/mahasiswa/f/felicia51/os171/week01
